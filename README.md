@@ -16,7 +16,7 @@
 - 💻 Currently improving my skills in **Deep Learning** and **MLops tools**  
 - 🧪 Exploring **Prompt Engineering**, **Model Deployment**, and **Data Storytelling**  
 - 🤝 Open to collaboration on AI, Data Science, and Open Source projects  
-- 📫 Reach me at: [salmasalah.ds@gmail.com](mailto:salmahemeda1@gmail.com)
+- 📫 Reach me at: [salmahemeda1@gmail.com](mailto:salmahemeda1@gmail.com)
 
 ---
 
@@ -34,15 +34,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmaSalah&show_icons=true&theme=monokai" alt="Salma's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaSalah&layout=compact&theme=monokai" alt="Top Languages" />
 </p>
 
 ---

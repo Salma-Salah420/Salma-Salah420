@@ -47,16 +47,6 @@
 
 ---
 
-### ☕ Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/salmasalah" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
----
-
 ### 📩 Connect with Me
 
 <p align="center">

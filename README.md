@@ -16,7 +16,7 @@
 - 💻 Currently improving my skills in **Deep Learning** and **MLops tools**  
 - 🧪 Exploring **Prompt Engineering**, **Model Deployment**, and **Data Storytelling**  
 - 🤝 Open to collaboration on AI, Data Science, and Open Source projects  
-- 📫 Reach me at: [salmasalah.ds@gmail.com](mailto:salmasalah.ds@gmail.com)
+- 📫 Reach me at: [salmasalah.ds@gmail.com](mailto:salmahemeda1@gmail.com)
 
 ---
 

@@ -17,7 +17,8 @@
 - 🧪 Exploring **Prompt Engineering**, **Model Deployment**, and **Data Storytelling**  
 - 🤝 Open to collaboration on AI, Data Science, and Open Source projects  
 - 📫 Reach me at: [salmahemeda1@gmail.com](mailto:salmahemeda1@gmail.com)
-- I’m a third-year Computer Science student at Helwan National University and a Data Scientist in progress, with a strong passion for problem solving as a core skill. I believe that learning how to think and solve problems is just as important as learning how to code.
+=============================================================================
+I’m a third-year Computer Science student at Helwan National University and a Data Scientist in progress, with a strong passion for problem solving as a core skill. I believe   that learning how to think and solve problems is just as important as learning how to code.
 
 I participated in ICPC 2024, and in 2025 my team ranked among the Top 100 teams in a one-day contest. My problem-solving level is intermediate, and I mainly use C++ for competitive programming. I also work with C, C++, Java, Python, and R.
 

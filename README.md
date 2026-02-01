@@ -17,6 +17,17 @@
 - 🧪 Exploring **Prompt Engineering**, **Model Deployment**, and **Data Storytelling**  
 - 🤝 Open to collaboration on AI, Data Science, and Open Source projects  
 - 📫 Reach me at: [salmahemeda1@gmail.com](mailto:salmahemeda1@gmail.com)
+- I’m a third-year Computer Science student at Helwan National University and a Data Scientist in progress, with a strong passion for problem solving as a core skill. I believe that learning how to think and solve problems is just as important as learning how to code.
+
+I participated in ICPC 2024, and in 2025 my team ranked among the Top 100 teams in a one-day contest. My problem-solving level is intermediate, and I mainly use C++ for competitive programming. I also work with C, C++, Java, Python, and R.
+
+I earned the DEPI Data Science certificate (June–December 2025), along with more than 30 certificates from Data Camp in Python, Data Science, and Data Visualization, and additional certificates from Mahara Tech in C, C++, and project management using Git and GitHub.
+
+Beyond certificates, I’m proud of my ability to balance academic excellence with real-world learning. I’ve been a team leader in most of my college projects, including my project in the Digital Egypt Pioneers Initiative, and I’m grateful to have built a community of over 15,000 followers on LinkedIn.
+
+I also write technical articles with my team to share knowledge, help others, create real understanding of problem solving, and support Arabic technical content. My goal is to make complex concepts simpler and more accessible to students and beginners.
+
+I’m an ambitious, hardworking, and curious learner who’s always looking to grow, collaborate, and take on new challenges. Currently, I’m seeking internship opportunities where I can apply my skills, learn from real-world experience, and continue building my path in data science and problem solving.
 
 ---
 
